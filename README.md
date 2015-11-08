@@ -57,6 +57,3 @@ Blockchain size concerns
 
 * https://forum.ethereum.org/discussion/335/blockchain-size
 * https://www.quora.com/Why-isnt-the-size-of-the-blockchain-a-serious-problem-for-Bitcoin
-
-
-(From RKOH)
