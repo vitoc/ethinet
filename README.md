@@ -1,6 +1,6 @@
 # ethinet
 
-This is a WIP draft and placeholder for a proposed protocol of communication that embodies the following:
+This is a WIP repository for an exploratory/possible protocol of communication that embodies the following:
 
 * Identity inheritance
 
@@ -26,5 +26,19 @@ This is a WIP draft and placeholder for a proposed protocol of communication tha
 
 * Object embedded signature for identification
 
-We believe that it is technologically possible and practical to create a decentralized
-network where data ownership can be shared among its originator and processor.
+One belief is that it should be technologically possible and practical to create a decentralized
+network where fine-grained joint ownership of data among originator and processor is explicit.
+
+Interesting references
+======================
+
+Within the domain
+-----------------
+
+* https://github.com/ethereum/go-ethereum/wiki/Frontier
+
+Blockchain size concerns
+------------------------
+
+* https://forum.ethereum.org/discussion/335/blockchain-size
+* https://www.quora.com/Why-isnt-the-size-of-the-blockchain-a-serious-problem-for-Bitcoin
